@@ -1,1 +1,2 @@
-I dunno how to code. Generate a hello world for a bounty!
+// bountyfarmer — hello world for a bounty
+console.log("Hello, world! Claim your bounty. 🤑");
