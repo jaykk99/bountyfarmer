@@ -1,0 +1,2494 @@
+{
+  "fetched_at": "2026-10-01T00:13:11.296Z",
+  "count": 156,
+  "with_amount": 22,
+  "items": [
+    {
+      "id": "gh-5621473943",
+      "source": "github",
+      "title": "[Bounty $1.5k] Improve div_no_nan accuracy to 1 ULP",
+      "repo": "tenstorrent/tt-metal",
+      "url": "https://github.com/tenstorrent/tt-metal/issues/58228",
+      "labels": [
+        "bounty",
+        "bounty_difficulty/medium"
+      ],
+      "amount_usd": 1500,
+      "state": "open",
+      "created_at": "2026-09-28T21:27:15Z",
+      "updated_at": "2026-09-28T21:50:28Z",
+      "comments": 2
+    },
+    {
+      "id": "gh-5621471174",
+      "source": "github",
+      "title": "[Bounty $1.5k] Improve BF16 reciprocal rounding on Wormhole",
+      "repo": "tenstorrent/tt-metal",
+      "url": "https://github.com/tenstorrent/tt-metal/issues/58227",
+      "labels": [
+        "bounty",
+        "bounty_difficulty/medium"
+      ],
+      "amount_usd": 1500,
+      "state": "open",
+      "created_at": "2026-09-28T21:27:00Z",
+      "updated_at": "2026-09-28T21:50:11Z",
+      "comments": 3
+    },
+    {
+      "id": "gh-5636529564",
+      "source": "github",
+      "title": "[Bounty $750] Fix fused scale-mask softmax tile-padding leakage at non-32 widths",
+      "repo": "tenstorrent/tt-metal",
+      "url": "https://github.com/tenstorrent/tt-metal/issues/58495",
+      "labels": [
+        "bounty",
+        "bounty_difficulty/easy"
+      ],
+      "amount_usd": 750,
+      "state": "open",
+      "created_at": "2026-09-29T20:22:48Z",
+      "updated_at": "2026-09-30T01:51:11Z",
+      "comments": 6
+    },
+    {
+      "id": "gh-5649681503",
+      "source": "github",
+      "title": "feat: add mermail-signup-verification skill for Superteam Earn bounty",
+      "repo": "dev4aibots/mermail-skills",
+      "url": "https://github.com/dev4aibots/mermail-skills/pull/1",
+      "labels": [],
+      "amount_usd": 500,
+      "state": "open",
+      "created_at": "2026-09-30T16:26:29Z",
+      "updated_at": "2026-09-30T16:26:29Z",
+      "comments": 0
+    },
+    {
+      "id": "gh-5653047137",
+      "source": "github",
+      "title": "feat: PR-reviewer sub-agent that posts a structured review comment (bounty #4)",
+      "repo": "claude-builders-bounty/claude-builders-bounty",
+      "url": "https://github.com/claude-builders-bounty/claude-builders-bounty/pull/4608",
+      "labels": [],
+      "amount_usd": 150,
+      "state": "open",
+      "created_at": "2026-09-30T21:07:35Z",
+      "updated_at": "2026-09-30T21:12:33Z",
+      "comments": 0
+    },
+    {
+      "id": "gh-5652618015",
+      "source": "github",
+      "title": "[Bounty Proposal] fix(mcp): safely validate chat messages and memories to prevent HTTP 500 ( proposed)",
+      "repo": "BasedHardware/omi",
+      "url": "https://github.com/BasedHardware/omi/issues/20022",
+      "labels": [],
+      "amount_usd": 150,
+      "state": "open",
+      "created_at": "2026-09-30T20:29:38Z",
+      "updated_at": "2026-09-30T20:29:38Z",
+      "comments": 0
+    },
+    {
+      "id": "gh-5652089400",
+      "source": "github",
+      "title": "[Bounty Proposal] fix(chat): harden message persistence and memory citation deserialization resilience ( proposed)",
+      "repo": "BasedHardware/omi",
+      "url": "https://github.com/BasedHardware/omi/issues/20018",
+      "labels": [],
+      "amount_usd": 150,
+      "state": "open",
+      "created_at": "2026-09-30T19:44:59Z",
+      "updated_at": "2026-09-30T19:44:59Z",
+      "comments": 0
+    },
+    {
+      "id": "gh-5653118382",
+      "source": "github",
+      "title": "fix: solution for bounty issue #3 - [BOUNTY $100] HOOK: Pre-tool-use hook that blocks destructive bash commands",
+      "repo": "claude-builders-bounty/claude-builders-bounty",
+      "url": "https://github.com/claude-builders-bounty/claude-builders-bounty/pull/4612",
+      "labels": [],
+      "amount_usd": 100,
+      "state": "open",
+      "created_at": "2026-09-30T21:13:49Z",
+      "updated_at": "2026-09-30T21:13:49Z",
+      "comments": 0
+    },
+    {
+      "id": "gh-5648973382",
+      "source": "github",
+      "title": "[Bounty] Fix one deterministic agent-card discovery regression",
+      "repo": "NSPG13/agent-bounties",
+      "url": "https://github.com/NSPG13/agent-bounties/issues/1531",
+      "labels": [
+        "bounty",
+        "payments",
+        "funded-live",
+        "verification-pending"
+      ],
+      "amount_usd": 99,
+      "state": "open",
+      "created_at": "2026-09-30T15:31:41Z",
+      "updated_at": "2026-09-30T23:51:49Z",
+      "comments": 2
+    },
+    {
+      "id": "gh-5653103308",
+      "source": "github",
+      "title": "feat: CLAUDE.md template for Next.js + SQLite SaaS project (bounty #2)",
+      "repo": "claude-builders-bounty/claude-builders-bounty",
+      "url": "https://github.com/claude-builders-bounty/claude-builders-bounty/pull/4611",
+      "labels": [],
+      "amount_usd": 75,
+      "state": "open",
+      "created_at": "2026-09-30T21:12:28Z",
+      "updated_at": "2026-09-30T21:12:28Z",
+      "comments": 0
+    },
+    {
+      "id": "gh-5653687111",
+      "source": "github",
+      "title": "NEXORA bounty #296: [claude-builders-bounty/claude-builders-bounty] [BOUNTY $50] SKILL: Generate a structured CHANGELOG from git",
+      "repo": "Vikingr2023/awesome-agent-bounties",
+      "url": "https://github.com/Vikingr2023/awesome-agent-bounties/pull/388",
+      "labels": [],
+      "amount_usd": 50,
+      "state": "open",
+      "created_at": "2026-09-30T22:10:08Z",
+      "updated_at": "2026-09-30T22:10:11Z",
+      "comments": 1
+    },
+    {
+      "id": "gh-5653674472",
+      "source": "github",
+      "title": "NEXORA local agent: [claude-builders-bounty/claude-builders-bounty] [BOUNTY $50] SKILL: Generate a structured CHANGELOG from git",
+      "repo": "hitchman007/awesome-agent-bounties",
+      "url": "https://github.com/hitchman007/awesome-agent-bounties/pull/1",
+      "labels": [],
+      "amount_usd": 50,
+      "state": "open",
+      "created_at": "2026-09-30T22:08:53Z",
+      "updated_at": "2026-09-30T22:08:53Z",
+      "comments": 0
+    },
+    {
+      "id": "gh-5650141514",
+      "source": "github",
+      "title": "[Bounty Proposal] fix(listen): a failing legacy live persist crashes the stream_transcript task ($50 proposed)",
+      "repo": "BasedHardware/omi",
+      "url": "https://github.com/BasedHardware/omi/issues/20007",
+      "labels": [],
+      "amount_usd": 50,
+      "state": "open",
+      "created_at": "2026-09-30T17:04:06Z",
+      "updated_at": "2026-09-30T17:04:06Z",
+      "comments": 0
+    },
+    {
+      "id": "gh-5643386956",
+      "source": "github",
+      "title": "[Bounty proposal] fix(backend): validate inputs and add resilience guards in database wrapped ($50 proposed)",
+      "repo": "BasedHardware/omi",
+      "url": "https://github.com/BasedHardware/omi/issues/19958",
+      "labels": [],
+      "amount_usd": 50,
+      "state": "open",
+      "created_at": "2026-09-30T08:18:49Z",
+      "updated_at": "2026-09-30T12:38:03Z",
+      "comments": 1
+    },
+    {
+      "id": "gh-5643315356",
+      "source": "github",
+      "title": "[Bounty proposal] fix(backend): validate inputs and prevent counter crashes in daily summaries ($50 proposed)",
+      "repo": "BasedHardware/omi",
+      "url": "https://github.com/BasedHardware/omi/issues/19955",
+      "labels": [],
+      "amount_usd": 50,
+      "state": "open",
+      "created_at": "2026-09-30T08:13:16Z",
+      "updated_at": "2026-09-30T12:39:33Z",
+      "comments": 0
+    },
+    {
+      "id": "gh-5640913379",
+      "source": "github",
+      "title": "[Bounty Proposal] fix(backend): validate inputs and prevent self-merge data loss in database entities ( proposed)",
+      "repo": "BasedHardware/omi",
+      "url": "https://github.com/BasedHardware/omi/issues/19915",
+      "labels": [],
+      "amount_usd": 50,
+      "state": "open",
+      "created_at": "2026-09-30T04:28:55Z",
+      "updated_at": "2026-09-30T09:15:40Z",
+      "comments": 1
+    },
+    {
+      "id": "gh-5640676171",
+      "source": "github",
+      "title": "[Bounty Proposal] fix(daily-summary): a malformed conversation doc 500s daily-summary generation ($50 proposed)",
+      "repo": "BasedHardware/omi",
+      "url": "https://github.com/BasedHardware/omi/issues/19907",
+      "labels": [],
+      "amount_usd": 50,
+      "state": "open",
+      "created_at": "2026-09-30T04:01:52Z",
+      "updated_at": "2026-09-30T12:38:40Z",
+      "comments": 0
+    },
+    {
+      "id": "gh-5650147925",
+      "source": "github",
+      "title": "[Bounty proposal] fix(cli): validate date bounds and harden action-item payload handling ($25 proposed)",
+      "repo": "BasedHardware/omi",
+      "url": "https://github.com/BasedHardware/omi/pull/20008",
+      "labels": [
+        "python",
+        "positive-signal"
+      ],
+      "amount_usd": 25,
+      "state": "open",
+      "created_at": "2026-09-30T17:04:39Z",
+      "updated_at": "2026-09-30T20:34:03Z",
+      "comments": 1
+    },
+    {
+      "id": "gh-5642255255",
+      "source": "github",
+      "title": "[Bounty Proposal] fix(listen): a failing rollover finalization crashes the live session ($25-50 proposed)",
+      "repo": "BasedHardware/omi",
+      "url": "https://github.com/BasedHardware/omi/issues/19944",
+      "labels": [],
+      "amount_usd": 25,
+      "state": "open",
+      "created_at": "2026-09-30T06:46:33Z",
+      "updated_at": "2026-09-30T12:38:40Z",
+      "comments": 0
+    },
+    {
+      "id": "gh-5640682328",
+      "source": "github",
+      "title": "[Bounty Proposal] fix(people-stats): a dropped tombstone row ends the people-stats scan early ($25-50 proposed)",
+      "repo": "BasedHardware/omi",
+      "url": "https://github.com/BasedHardware/omi/issues/19908",
+      "labels": [],
+      "amount_usd": 25,
+      "state": "open",
+      "created_at": "2026-09-30T04:02:41Z",
+      "updated_at": "2026-09-30T04:02:41Z",
+      "comments": 0
+    },
+    {
+      "id": "gh-5647653745",
+      "source": "github",
+      "title": "docs: clarify PlannerWorkerSwarm timeout behavior (bounty claim)",
+      "repo": "The-Swarm-Corporation/swarms-framework-docs",
+      "url": "https://github.com/The-Swarm-Corporation/swarms-framework-docs/pull/276",
+      "labels": [],
+      "amount_usd": 20,
+      "state": "open",
+      "created_at": "2026-09-30T13:59:49Z",
+      "updated_at": "2026-09-30T13:59:49Z",
+      "comments": 0
+    },
+    {
+      "id": "gh-5647560587",
+      "source": "github",
+      "title": "docs: add offline tests to the ROI tool example (Silver bounty claim)",
+      "repo": "The-Swarm-Corporation/swarms-framework-docs",
+      "url": "https://github.com/The-Swarm-Corporation/swarms-framework-docs/pull/275",
+      "labels": [],
+      "amount_usd": 5,
+      "state": "open",
+      "created_at": "2026-09-30T13:52:51Z",
+      "updated_at": "2026-09-30T13:52:51Z",
+      "comments": 0
+    },
+    {
+      "id": "gh-5646813237",
+      "source": "github",
+      "title": "[Bounty] Answer 2 linked question(s) as a lesson",
+      "repo": "Ikalus1988/MisakaNet",
+      "url": "https://github.com/Ikalus1988/MisakaNet/issues/2525",
+      "labels": [
+        "ready",
+        "bounty"
+      ],
+      "amount_usd": null,
+      "state": "open",
+      "created_at": "2026-09-30T12:58:27Z",
+      "updated_at": "2026-09-30T14:09:06Z",
+      "comments": 1
+    },
+    {
+      "id": "gh-5646812779",
+      "source": "github",
+      "title": "[Bounty] Answer 2 linked question(s) as a lesson",
+      "repo": "Ikalus1988/MisakaNet",
+      "url": "https://github.com/Ikalus1988/MisakaNet/issues/2524",
+      "labels": [
+        "ready",
+        "bounty"
+      ],
+      "amount_usd": null,
+      "state": "open",
+      "created_at": "2026-09-30T12:58:25Z",
+      "updated_at": "2026-09-30T13:49:45Z",
+      "comments": 1
+    },
+    {
+      "id": "gh-5646812255",
+      "source": "github",
+      "title": "[Bounty] Answer 2 linked question(s) as a lesson",
+      "repo": "Ikalus1988/MisakaNet",
+      "url": "https://github.com/Ikalus1988/MisakaNet/issues/2523",
+      "labels": [
+        "ready",
+        "bounty"
+      ],
+      "amount_usd": null,
+      "state": "open",
+      "created_at": "2026-09-30T12:58:22Z",
+      "updated_at": "2026-09-30T13:50:54Z",
+      "comments": 1
+    },
+    {
+      "id": "gh-5645093134",
+      "source": "github",
+      "title": "Re-test CSP nonce propagation on the installed Next release and drop 'unsafe-inline' from script-src if it works",
+      "repo": "OphirPay/OphirPay",
+      "url": "https://github.com/OphirPay/OphirPay/issues/1257",
+      "labels": [
+        "frontend",
+        "security",
+        "difficulty: medium",
+        "bounty",
+        "Stellar Wave"
+      ],
+      "amount_usd": null,
+      "state": "open",
+      "created_at": "2026-09-30T10:35:34Z",
+      "updated_at": "2026-09-30T10:42:05Z",
+      "comments": 10
+    },
+    {
+      "id": "gh-5642494399",
+      "source": "github",
+      "title": "Frantic bounty #136: Add a newly launched startup to Stompstart",
+      "repo": "auscaster/frantic-board",
+      "url": "https://github.com/auscaster/frantic-board/issues/476",
+      "labels": [
+        "bounty",
+        "funded",
+        "available",
+        "claimed",
+        "delivered",
+        "paid"
+      ],
+      "amount_usd": null,
+      "state": "open",
+      "created_at": "2026-09-30T07:06:58Z",
+      "updated_at": "2026-09-30T23:47:31Z",
+      "comments": 89
+    },
+    {
+      "id": "gh-5634527254",
+      "source": "github",
+      "title": "[BOUNTY] Suggestion #1247",
+      "repo": "SPLURT-Station/S.P.L.U.R.T-tg",
+      "url": "https://github.com/SPLURT-Station/S.P.L.U.R.T-tg/issues/1261",
+      "labels": [
+        "bounty"
+      ],
+      "amount_usd": null,
+      "state": "open",
+      "created_at": "2026-09-29T17:35:20Z",
+      "updated_at": "2026-09-29T18:16:03Z",
+      "comments": 1
+    },
+    {
+      "id": "gh-5624182124",
+      "source": "github",
+      "title": "[BOUNTY] Suggestion #1232",
+      "repo": "SPLURT-Station/S.P.L.U.R.T-tg",
+      "url": "https://github.com/SPLURT-Station/S.P.L.U.R.T-tg/issues/1258",
+      "labels": [
+        "bounty"
+      ],
+      "amount_usd": null,
+      "state": "open",
+      "created_at": "2026-09-29T02:33:33Z",
+      "updated_at": "2026-09-30T06:44:23Z",
+      "comments": 5
+    },
+    {
+      "id": "gh-5623388803",
+      "source": "github",
+      "title": "Bug: add() subtracts instead of adding",
+      "repo": "UniversalAviator420/bounty-sandbox",
+      "url": "https://github.com/UniversalAviator420/bounty-sandbox/issues/5",
+      "labels": [
+        "bounty"
+      ],
+      "amount_usd": null,
+      "state": "open",
+      "created_at": "2026-09-29T00:56:47Z",
+      "updated_at": "2026-09-29T17:27:06Z",
+      "comments": 2
+    },
+    {
+      "id": "gh-5621730631",
+      "source": "github",
+      "title": "[radar] SN open bounty 2026-09-28T21:51",
+      "repo": "relayhop/sn-monetization-runtime",
+      "url": "https://github.com/relayhop/sn-monetization-runtime/issues/1218",
+      "labels": [
+        "radar",
+        "sn",
+        "bounty"
+      ],
+      "amount_usd": null,
+      "state": "open",
+      "created_at": "2026-09-28T21:51:52Z",
+      "updated_at": "2026-09-28T21:51:52Z",
+      "comments": 0
+    },
+    {
+      "id": "gh-5621706967",
+      "source": "github",
+      "title": "Bug: greet() crashes with AttributeError when name is None",
+      "repo": "UniversalAviator420/bounty-sandbox",
+      "url": "https://github.com/UniversalAviator420/bounty-sandbox/issues/3",
+      "labels": [
+        "bounty"
+      ],
+      "amount_usd": null,
+      "state": "open",
+      "created_at": "2026-09-28T21:49:31Z",
+      "updated_at": "2026-09-28T21:49:31Z",
+      "comments": 0
+    },
+    {
+      "id": "gh-5616939159",
+      "source": "github",
+      "title": "[radar] SN open bounty 2026-09-28T15:19",
+      "repo": "relayhop/sn-monetization-runtime",
+      "url": "https://github.com/relayhop/sn-monetization-runtime/issues/1217",
+      "labels": [
+        "radar",
+        "sn",
+        "bounty"
+      ],
+      "amount_usd": null,
+      "state": "open",
+      "created_at": "2026-09-28T15:19:23Z",
+      "updated_at": "2026-09-28T15:19:23Z",
+      "comments": 0
+    },
+    {
+      "id": "gh-5615564640",
+      "source": "github",
+      "title": "[radar] SN open bounty 2026-09-28T13:43",
+      "repo": "relayhop/sn-monetization-runtime",
+      "url": "https://github.com/relayhop/sn-monetization-runtime/issues/1216",
+      "labels": [
+        "radar",
+        "sn",
+        "bounty"
+      ],
+      "amount_usd": null,
+      "state": "open",
+      "created_at": "2026-09-28T13:43:48Z",
+      "updated_at": "2026-09-28T13:43:48Z",
+      "comments": 0
+    },
+    {
+      "id": "gh-5610467692",
+      "source": "github",
+      "title": "[radar] SN open bounty 2026-09-28T06:42",
+      "repo": "relayhop/sn-monetization-runtime",
+      "url": "https://github.com/relayhop/sn-monetization-runtime/issues/1212",
+      "labels": [
+        "radar",
+        "sn",
+        "bounty"
+      ],
+      "amount_usd": null,
+      "state": "open",
+      "created_at": "2026-09-28T06:42:31Z",
+      "updated_at": "2026-09-28T06:42:31Z",
+      "comments": 0
+    },
+    {
+      "id": "gh-5609566632",
+      "source": "github",
+      "title": "[BOUNTY] Suggestion #1244",
+      "repo": "SPLURT-Station/S.P.L.U.R.T-tg",
+      "url": "https://github.com/SPLURT-Station/S.P.L.U.R.T-tg/issues/1253",
+      "labels": [
+        "bounty"
+      ],
+      "amount_usd": null,
+      "state": "open",
+      "created_at": "2026-09-28T04:58:07Z",
+      "updated_at": "2026-09-28T15:00:03Z",
+      "comments": 2
+    },
+    {
+      "id": "gh-5607654655",
+      "source": "github",
+      "title": "[radar] SN open bounty 2026-09-28T00:35",
+      "repo": "relayhop/sn-monetization-runtime",
+      "url": "https://github.com/relayhop/sn-monetization-runtime/issues/1211",
+      "labels": [
+        "radar",
+        "sn",
+        "bounty"
+      ],
+      "amount_usd": null,
+      "state": "open",
+      "created_at": "2026-09-28T00:35:03Z",
+      "updated_at": "2026-09-28T00:35:03Z",
+      "comments": 0
+    },
+    {
+      "id": "gh-5606652366",
+      "source": "github",
+      "title": "[radar] SN open bounty 2026-09-27T22:01",
+      "repo": "relayhop/sn-monetization-runtime",
+      "url": "https://github.com/relayhop/sn-monetization-runtime/issues/1210",
+      "labels": [
+        "radar",
+        "sn",
+        "bounty"
+      ],
+      "amount_usd": null,
+      "state": "open",
+      "created_at": "2026-09-27T22:01:55Z",
+      "updated_at": "2026-09-27T22:01:55Z",
+      "comments": 0
+    },
+    {
+      "id": "gh-5605874355",
+      "source": "github",
+      "title": "[BOUNTY] Suggestion #1241",
+      "repo": "SPLURT-Station/S.P.L.U.R.T-tg",
+      "url": "https://github.com/SPLURT-Station/S.P.L.U.R.T-tg/issues/1251",
+      "labels": [
+        "bounty"
+      ],
+      "amount_usd": null,
+      "state": "open",
+      "created_at": "2026-09-27T20:08:34Z",
+      "updated_at": "2026-09-27T20:08:34Z",
+      "comments": 0
+    },
+    {
+      "id": "gh-5605091547",
+      "source": "github",
+      "title": "[radar] SN open bounty 2026-09-27T18:17",
+      "repo": "relayhop/sn-monetization-runtime",
+      "url": "https://github.com/relayhop/sn-monetization-runtime/issues/1209",
+      "labels": [
+        "radar",
+        "sn",
+        "bounty"
+      ],
+      "amount_usd": null,
+      "state": "open",
+      "created_at": "2026-09-27T18:17:30Z",
+      "updated_at": "2026-09-27T18:17:30Z",
+      "comments": 0
+    },
+    {
+      "id": "gh-5603172105",
+      "source": "github",
+      "title": "[radar] SN open bounty 2026-09-27T13:52",
+      "repo": "relayhop/sn-monetization-runtime",
+      "url": "https://github.com/relayhop/sn-monetization-runtime/issues/1208",
+      "labels": [
+        "radar",
+        "sn",
+        "bounty"
+      ],
+      "amount_usd": null,
+      "state": "open",
+      "created_at": "2026-09-27T13:52:03Z",
+      "updated_at": "2026-09-27T13:52:03Z",
+      "comments": 0
+    },
+    {
+      "id": "gh-5602918918",
+      "source": "github",
+      "title": "[Test] Round 3 — version/documentation drift hunt: report what the gates cannot see (intake or fix, both earn credit)",
+      "repo": "Ikalus1988/MisakaNet",
+      "url": "https://github.com/Ikalus1988/MisakaNet/issues/2345",
+      "labels": [
+        "help wanted",
+        "test",
+        "status: competition",
+        "needs-ac",
+        "bounty",
+        "zero-bounty"
+      ],
+      "amount_usd": null,
+      "state": "open",
+      "created_at": "2026-09-27T13:14:17Z",
+      "updated_at": "2026-09-29T17:29:35Z",
+      "comments": 3
+    },
+    {
+      "id": "gh-5602420413",
+      "source": "github",
+      "title": "[radar] SN open bounty 2026-09-27T11:55",
+      "repo": "relayhop/sn-monetization-runtime",
+      "url": "https://github.com/relayhop/sn-monetization-runtime/issues/1207",
+      "labels": [
+        "radar",
+        "sn",
+        "bounty"
+      ],
+      "amount_usd": null,
+      "state": "open",
+      "created_at": "2026-09-27T11:55:11Z",
+      "updated_at": "2026-09-27T11:55:11Z",
+      "comments": 0
+    },
+    {
+      "id": "gh-5598810800",
+      "source": "github",
+      "title": "[radar] SN open bounty 2026-09-27T01:20",
+      "repo": "relayhop/sn-monetization-runtime",
+      "url": "https://github.com/relayhop/sn-monetization-runtime/issues/1206",
+      "labels": [
+        "radar",
+        "sn",
+        "bounty"
+      ],
+      "amount_usd": null,
+      "state": "open",
+      "created_at": "2026-09-27T01:20:02Z",
+      "updated_at": "2026-09-27T01:20:02Z",
+      "comments": 0
+    },
+    {
+      "id": "gh-5597928087",
+      "source": "github",
+      "title": "[radar] SN open bounty 2026-09-26T22:41",
+      "repo": "relayhop/sn-monetization-runtime",
+      "url": "https://github.com/relayhop/sn-monetization-runtime/issues/1205",
+      "labels": [
+        "radar",
+        "sn",
+        "bounty"
+      ],
+      "amount_usd": null,
+      "state": "open",
+      "created_at": "2026-09-26T22:41:08Z",
+      "updated_at": "2026-09-26T22:41:08Z",
+      "comments": 0
+    },
+    {
+      "id": "gh-5596819154",
+      "source": "github",
+      "title": "[radar] SN open bounty 2026-09-26T19:47",
+      "repo": "relayhop/sn-monetization-runtime",
+      "url": "https://github.com/relayhop/sn-monetization-runtime/issues/1204",
+      "labels": [
+        "radar",
+        "sn",
+        "bounty"
+      ],
+      "amount_usd": null,
+      "state": "open",
+      "created_at": "2026-09-26T19:47:43Z",
+      "updated_at": "2026-09-26T19:47:43Z",
+      "comments": 0
+    },
+    {
+      "id": "gh-5595753081",
+      "source": "github",
+      "title": "[radar] SN open bounty 2026-09-26T17:05",
+      "repo": "relayhop/sn-monetization-runtime",
+      "url": "https://github.com/relayhop/sn-monetization-runtime/issues/1203",
+      "labels": [
+        "radar",
+        "sn",
+        "bounty"
+      ],
+      "amount_usd": null,
+      "state": "open",
+      "created_at": "2026-09-26T17:05:07Z",
+      "updated_at": "2026-09-26T17:05:07Z",
+      "comments": 0
+    },
+    {
+      "id": "gh-5594153299",
+      "source": "github",
+      "title": "[radar] SN open bounty 2026-09-26T12:59",
+      "repo": "relayhop/sn-monetization-runtime",
+      "url": "https://github.com/relayhop/sn-monetization-runtime/issues/1200",
+      "labels": [
+        "radar",
+        "sn",
+        "bounty"
+      ],
+      "amount_usd": null,
+      "state": "open",
+      "created_at": "2026-09-26T12:59:46Z",
+      "updated_at": "2026-09-26T12:59:46Z",
+      "comments": 0
+    },
+    {
+      "id": "gh-5593552286",
+      "source": "github",
+      "title": "[radar] SN open bounty 2026-09-26T11:16",
+      "repo": "relayhop/sn-monetization-runtime",
+      "url": "https://github.com/relayhop/sn-monetization-runtime/issues/1199",
+      "labels": [
+        "radar",
+        "sn",
+        "bounty"
+      ],
+      "amount_usd": null,
+      "state": "open",
+      "created_at": "2026-09-26T11:16:11Z",
+      "updated_at": "2026-09-26T11:16:11Z",
+      "comments": 0
+    },
+    {
+      "id": "gh-5592300988",
+      "source": "github",
+      "title": "[radar] SN open bounty 2026-09-26T07:33",
+      "repo": "relayhop/sn-monetization-runtime",
+      "url": "https://github.com/relayhop/sn-monetization-runtime/issues/1196",
+      "labels": [
+        "radar",
+        "sn",
+        "bounty"
+      ],
+      "amount_usd": null,
+      "state": "open",
+      "created_at": "2026-09-26T07:33:04Z",
+      "updated_at": "2026-09-26T08:29:04Z",
+      "comments": 2
+    },
+    {
+      "id": "gh-5590358352",
+      "source": "github",
+      "title": "[radar] SN open bounty 2026-09-26T01:27",
+      "repo": "relayhop/sn-monetization-runtime",
+      "url": "https://github.com/relayhop/sn-monetization-runtime/issues/1195",
+      "labels": [
+        "radar",
+        "sn",
+        "bounty"
+      ],
+      "amount_usd": null,
+      "state": "open",
+      "created_at": "2026-09-26T01:27:56Z",
+      "updated_at": "2026-09-26T04:36:49Z",
+      "comments": 2
+    },
+    {
+      "id": "gh-5556788282",
+      "source": "github",
+      "title": "Recommend transaction fees from Horizon fee statistics instead of a static value",
+      "repo": "OphirPay/OphirPay",
+      "url": "https://github.com/OphirPay/OphirPay/issues/825",
+      "labels": [
+        "backend",
+        "difficulty: medium",
+        "bounty",
+        "Stellar Wave",
+        "integrations"
+      ],
+      "amount_usd": null,
+      "state": "open",
+      "created_at": "2026-09-23T17:07:21Z",
+      "updated_at": "2026-09-30T18:41:03Z",
+      "comments": 24
+    },
+    {
+      "id": "gh-5556787737",
+      "source": "github",
+      "title": "Look up asset metadata so custom assets display their ticker and issuer name",
+      "repo": "OphirPay/OphirPay",
+      "url": "https://github.com/OphirPay/OphirPay/issues/824",
+      "labels": [
+        "frontend",
+        "difficulty: medium",
+        "bounty",
+        "Stellar Wave",
+        "integrations"
+      ],
+      "amount_usd": null,
+      "state": "open",
+      "created_at": "2026-09-23T17:07:19Z",
+      "updated_at": "2026-09-30T18:40:12Z",
+      "comments": 21
+    },
+    {
+      "id": "gh-5556786538",
+      "source": "github",
+      "title": "Publish a CLI or GitHub Action so CI pipelines can create payments",
+      "repo": "OphirPay/OphirPay",
+      "url": "https://github.com/OphirPay/OphirPay/issues/822",
+      "labels": [
+        "feature",
+        "bounty",
+        "Stellar Wave",
+        "difficulty: hard",
+        "integrations"
+      ],
+      "amount_usd": null,
+      "state": "open",
+      "created_at": "2026-09-23T17:07:12Z",
+      "updated_at": "2026-09-30T18:41:13Z",
+      "comments": 16
+    },
+    {
+      "id": "gh-5556785910",
+      "source": "github",
+      "title": "Add a SEP-24 style anchor deposit and withdrawal flow for fiat on-ramp",
+      "repo": "OphirPay/OphirPay",
+      "url": "https://github.com/OphirPay/OphirPay/issues/821",
+      "labels": [
+        "feature",
+        "bounty",
+        "Stellar Wave",
+        "difficulty: hard",
+        "integrations"
+      ],
+      "amount_usd": null,
+      "state": "open",
+      "created_at": "2026-09-23T17:07:08Z",
+      "updated_at": "2026-09-30T18:39:05Z",
+      "comments": 17
+    },
+    {
+      "id": "gh-5556749941",
+      "source": "github",
+      "title": "Trim the 300-entry PaymentError catalog to what the contract actually implements",
+      "repo": "OphirPay/OphirPay",
+      "url": "https://github.com/OphirPay/OphirPay/issues/766",
+      "labels": [
+        "contracts",
+        "difficulty: medium",
+        "bounty",
+        "Stellar Wave"
+      ],
+      "amount_usd": null,
+      "state": "open",
+      "created_at": "2026-09-23T17:04:12Z",
+      "updated_at": "2026-09-26T03:07:16Z",
+      "comments": 6
+    },
+    {
+      "id": "gh-5556748268",
+      "source": "github",
+      "title": "Move test-only helpers out of the shipped src/lib tree",
+      "repo": "OphirPay/OphirPay",
+      "url": "https://github.com/OphirPay/OphirPay/issues/763",
+      "labels": [
+        "backend",
+        "tests",
+        "bounty",
+        "Stellar Wave",
+        "difficulty: easy"
+      ],
+      "amount_usd": null,
+      "state": "open",
+      "created_at": "2026-09-23T17:04:03Z",
+      "updated_at": "2026-09-30T10:20:00Z",
+      "comments": 15
+    },
+    {
+      "id": "gh-5556747647",
+      "source": "github",
+      "title": "Give API routes a shared wrapper instead of repeating the same preamble",
+      "repo": "OphirPay/OphirPay",
+      "url": "https://github.com/OphirPay/OphirPay/issues/762",
+      "labels": [
+        "backend",
+        "difficulty: medium",
+        "bounty",
+        "Stellar Wave"
+      ],
+      "amount_usd": null,
+      "state": "open",
+      "created_at": "2026-09-23T17:04:00Z",
+      "updated_at": "2026-09-30T10:42:30Z",
+      "comments": 18
+    },
+    {
+      "id": "gh-5556735020",
+      "source": "github",
+      "title": "Apply the same static-asset cache headers in next.config.ts that vercel.json sets",
+      "repo": "OphirPay/OphirPay",
+      "url": "https://github.com/OphirPay/OphirPay/issues/740",
+      "labels": [
+        "performance",
+        "bounty",
+        "Stellar Wave",
+        "difficulty: easy"
+      ],
+      "amount_usd": null,
+      "state": "open",
+      "created_at": "2026-09-23T17:02:54Z",
+      "updated_at": "2026-09-26T05:17:41Z",
+      "comments": 12
+    },
+    {
+      "id": "gh-5556730133",
+      "source": "github",
+      "title": "Pin GitHub Actions to commit SHAs instead of mutable version tags",
+      "repo": "OphirPay/OphirPay",
+      "url": "https://github.com/OphirPay/OphirPay/issues/733",
+      "labels": [
+        "security",
+        "ci",
+        "difficulty: medium",
+        "bounty",
+        "Stellar Wave"
+      ],
+      "amount_usd": null,
+      "state": "open",
+      "created_at": "2026-09-23T17:02:27Z",
+      "updated_at": "2026-09-26T05:17:51Z",
+      "comments": 6
+    },
+    {
+      "id": "gh-5556726899",
+      "source": "github",
+      "title": "Add a devcontainer so Codespaces and local development match CI",
+      "repo": "OphirPay/OphirPay",
+      "url": "https://github.com/OphirPay/OphirPay/issues/727",
+      "labels": [
+        "ci",
+        "bounty",
+        "Stellar Wave",
+        "difficulty: easy"
+      ],
+      "amount_usd": null,
+      "state": "open",
+      "created_at": "2026-09-23T17:02:10Z",
+      "updated_at": "2026-09-30T10:20:41Z",
+      "comments": 13
+    },
+    {
+      "id": "gh-5556724491",
+      "source": "github",
+      "title": "Run axe accessibility checks against the admin pages, not just the core flows",
+      "repo": "OphirPay/OphirPay",
+      "url": "https://github.com/OphirPay/OphirPay/issues/723",
+      "labels": [
+        "accessibility",
+        "tests",
+        "difficulty: medium",
+        "bounty",
+        "Stellar Wave"
+      ],
+      "amount_usd": null,
+      "state": "open",
+      "created_at": "2026-09-23T17:01:59Z",
+      "updated_at": "2026-09-26T05:11:43Z",
+      "comments": 4
+    },
+    {
+      "id": "gh-5556723991",
+      "source": "github",
+      "title": "Add boundary tests for amount and currency formatting",
+      "repo": "OphirPay/OphirPay",
+      "url": "https://github.com/OphirPay/OphirPay/issues/722",
+      "labels": [
+        "frontend",
+        "tests",
+        "bounty",
+        "Stellar Wave",
+        "difficulty: easy"
+      ],
+      "amount_usd": null,
+      "state": "open",
+      "created_at": "2026-09-23T17:01:56Z",
+      "updated_at": "2026-09-26T08:32:46Z",
+      "comments": 6
+    },
+    {
+      "id": "gh-5556723289",
+      "source": "github",
+      "title": "Add unit tests for the structured-data and metadata helpers",
+      "repo": "OphirPay/OphirPay",
+      "url": "https://github.com/OphirPay/OphirPay/issues/721",
+      "labels": [
+        "frontend",
+        "tests",
+        "bounty",
+        "Stellar Wave",
+        "difficulty: easy"
+      ],
+      "amount_usd": null,
+      "state": "open",
+      "created_at": "2026-09-23T17:01:53Z",
+      "updated_at": "2026-09-28T17:40:19Z",
+      "comments": 5
+    },
+    {
+      "id": "gh-5556720868",
+      "source": "github",
+      "title": "Add a contract test asserting every PaymentError variant has a unique numeric code",
+      "repo": "OphirPay/OphirPay",
+      "url": "https://github.com/OphirPay/OphirPay/issues/717",
+      "labels": [
+        "contracts",
+        "tests",
+        "bounty",
+        "Stellar Wave",
+        "difficulty: easy"
+      ],
+      "amount_usd": null,
+      "state": "open",
+      "created_at": "2026-09-23T17:01:42Z",
+      "updated_at": "2026-09-24T18:36:45Z",
+      "comments": 5
+    },
+    {
+      "id": "gh-5556720276",
+      "source": "github",
+      "title": "Expand visual regression beyond a single spec file to all top-level routes",
+      "repo": "OphirPay/OphirPay",
+      "url": "https://github.com/OphirPay/OphirPay/issues/716",
+      "labels": [
+        "frontend",
+        "tests",
+        "difficulty: medium",
+        "bounty",
+        "Stellar Wave"
+      ],
+      "amount_usd": null,
+      "state": "open",
+      "created_at": "2026-09-23T17:01:39Z",
+      "updated_at": "2026-09-24T18:36:36Z",
+      "comments": 7
+    },
+    {
+      "id": "gh-5556716828",
+      "source": "github",
+      "title": "Add unit tests for the shard router instead of relying on the E2E fixture",
+      "repo": "OphirPay/OphirPay",
+      "url": "https://github.com/OphirPay/OphirPay/issues/711",
+      "labels": [
+        "backend",
+        "tests",
+        "difficulty: medium",
+        "bounty",
+        "Stellar Wave"
+      ],
+      "amount_usd": null,
+      "state": "open",
+      "created_at": "2026-09-23T17:01:25Z",
+      "updated_at": "2026-09-24T18:36:29Z",
+      "comments": 6
+    },
+    {
+      "id": "gh-5556716079",
+      "source": "github",
+      "title": "Add API-level E2E coverage for the escrow and stream routes",
+      "repo": "OphirPay/OphirPay",
+      "url": "https://github.com/OphirPay/OphirPay/issues/710",
+      "labels": [
+        "backend",
+        "tests",
+        "difficulty: medium",
+        "bounty",
+        "Stellar Wave"
+      ],
+      "amount_usd": null,
+      "state": "open",
+      "created_at": "2026-09-23T17:01:22Z",
+      "updated_at": "2026-09-24T18:36:17Z",
+      "comments": 5
+    },
+    {
+      "id": "gh-5556708379",
+      "source": "github",
+      "title": "docs/SPEC.md still lists Kani model checking as an unchecked TODO while other docs mark it done",
+      "repo": "OphirPay/OphirPay",
+      "url": "https://github.com/OphirPay/OphirPay/issues/696",
+      "labels": [
+        "bug",
+        "documentation",
+        "bounty",
+        "Stellar Wave",
+        "difficulty: easy"
+      ],
+      "amount_usd": null,
+      "state": "open",
+      "created_at": "2026-09-23T17:00:43Z",
+      "updated_at": "2026-09-29T16:17:10Z",
+      "comments": 6
+    },
+    {
+      "id": "gh-5556707901",
+      "source": "github",
+      "title": "create_batch accumulates the batch total with unchecked addition",
+      "repo": "OphirPay/OphirPay",
+      "url": "https://github.com/OphirPay/OphirPay/issues/695",
+      "labels": [
+        "bug",
+        "contracts",
+        "difficulty: medium",
+        "bounty",
+        "Stellar Wave"
+      ],
+      "amount_usd": null,
+      "state": "open",
+      "created_at": "2026-09-23T17:00:41Z",
+      "updated_at": "2026-09-24T13:07:08Z",
+      "comments": 6
+    },
+    {
+      "id": "gh-5556707378",
+      "source": "github",
+      "title": "set_multisig_config accepts duplicate signers and ignores its documented signer cap",
+      "repo": "OphirPay/OphirPay",
+      "url": "https://github.com/OphirPay/OphirPay/issues/694",
+      "labels": [
+        "bug",
+        "contracts",
+        "difficulty: medium",
+        "bounty",
+        "Stellar Wave"
+      ],
+      "amount_usd": null,
+      "state": "open",
+      "created_at": "2026-09-23T17:00:38Z",
+      "updated_at": "2026-09-24T13:06:55Z",
+      "comments": 5
+    },
+    {
+      "id": "gh-5556706744",
+      "source": "github",
+      "title": "unregister_hook and accept_ownership return misleading error codes",
+      "repo": "OphirPay/OphirPay",
+      "url": "https://github.com/OphirPay/OphirPay/issues/693",
+      "labels": [
+        "bug",
+        "contracts",
+        "bounty",
+        "Stellar Wave",
+        "difficulty: easy"
+      ],
+      "amount_usd": null,
+      "state": "open",
+      "created_at": "2026-09-23T17:00:34Z",
+      "updated_at": "2026-09-24T13:06:31Z",
+      "comments": 4
+    },
+    {
+      "id": "gh-5556705570",
+      "source": "github",
+      "title": "compute_vested returns 0 on overflow, silently under-vesting a stream",
+      "repo": "OphirPay/OphirPay",
+      "url": "https://github.com/OphirPay/OphirPay/issues/691",
+      "labels": [
+        "bug",
+        "contracts",
+        "difficulty: medium",
+        "bounty",
+        "Stellar Wave"
+      ],
+      "amount_usd": null,
+      "state": "open",
+      "created_at": "2026-09-23T17:00:28Z",
+      "updated_at": "2026-09-26T05:20:32Z",
+      "comments": 5
+    },
+    {
+      "id": "gh-5556620793",
+      "source": "github",
+      "title": "Delete the stray docs_update.md left at the repository root",
+      "repo": "OphirPay/OphirPay",
+      "url": "https://github.com/OphirPay/OphirPay/issues/690",
+      "labels": [
+        "bug",
+        "documentation",
+        "bounty",
+        "Stellar Wave",
+        "difficulty: easy"
+      ],
+      "amount_usd": null,
+      "state": "open",
+      "created_at": "2026-09-23T16:53:08Z",
+      "updated_at": "2026-09-29T09:30:54Z",
+      "comments": 7
+    },
+    {
+      "id": "gh-5556620183",
+      "source": "github",
+      "title": "docs/RBAC-AUDIT.md cites the wrong issue number for its own origin",
+      "repo": "OphirPay/OphirPay",
+      "url": "https://github.com/OphirPay/OphirPay/issues/689",
+      "labels": [
+        "bug",
+        "documentation",
+        "bounty",
+        "Stellar Wave",
+        "difficulty: easy"
+      ],
+      "amount_usd": null,
+      "state": "open",
+      "created_at": "2026-09-23T16:53:05Z",
+      "updated_at": "2026-09-29T09:30:53Z",
+      "comments": 5
+    },
+    {
+      "id": "gh-5556616381",
+      "source": "github",
+      "title": "vercel.json rewrites /.well-known/security.txt to itself",
+      "repo": "OphirPay/OphirPay",
+      "url": "https://github.com/OphirPay/OphirPay/issues/682",
+      "labels": [
+        "bug",
+        "bounty",
+        "Stellar Wave",
+        "difficulty: easy"
+      ],
+      "amount_usd": null,
+      "state": "open",
+      "created_at": "2026-09-23T16:52:44Z",
+      "updated_at": "2026-09-25T19:42:39Z",
+      "comments": 7
+    },
+    {
+      "id": "gh-5556615252",
+      "source": "github",
+      "title": ".github/labeler.yml still globs the removed src/middleware.ts path",
+      "repo": "OphirPay/OphirPay",
+      "url": "https://github.com/OphirPay/OphirPay/issues/680",
+      "labels": [
+        "bug",
+        "ci",
+        "bounty",
+        "Stellar Wave",
+        "difficulty: easy"
+      ],
+      "amount_usd": null,
+      "state": "open",
+      "created_at": "2026-09-23T16:52:38Z",
+      "updated_at": "2026-09-25T19:43:01Z",
+      "comments": 5
+    },
+    {
+      "id": "gh-5556614735",
+      "source": "github",
+      "title": "next.config.ts CSP comment points contributors at src/middleware.ts, which does not exist",
+      "repo": "OphirPay/OphirPay",
+      "url": "https://github.com/OphirPay/OphirPay/issues/679",
+      "labels": [
+        "bug",
+        "documentation",
+        "bounty",
+        "Stellar Wave",
+        "difficulty: easy"
+      ],
+      "amount_usd": null,
+      "state": "open",
+      "created_at": "2026-09-23T16:52:36Z",
+      "updated_at": "2026-09-25T19:42:32Z",
+      "comments": 4
+    },
+    {
+      "id": "gh-5556614160",
+      "source": "github",
+      "title": "README CI badge and the 22-job tables describe a pipeline that no longer exists",
+      "repo": "OphirPay/OphirPay",
+      "url": "https://github.com/OphirPay/OphirPay/issues/678",
+      "labels": [
+        "bug",
+        "documentation",
+        "bounty",
+        "Stellar Wave",
+        "difficulty: easy"
+      ],
+      "amount_usd": null,
+      "state": "open",
+      "created_at": "2026-09-23T16:52:33Z",
+      "updated_at": "2026-09-29T16:16:42Z",
+      "comments": 6
+    },
+    {
+      "id": "gh-5551779872",
+      "source": "github",
+      "title": "[radar] SN open bounty 2026-09-23T10:00",
+      "repo": "relayhop/sn-monetization-runtime",
+      "url": "https://github.com/relayhop/sn-monetization-runtime/issues/1188",
+      "labels": [
+        "radar",
+        "sn",
+        "bounty"
+      ],
+      "amount_usd": null,
+      "state": "open",
+      "created_at": "2026-09-23T10:00:44Z",
+      "updated_at": "2026-09-23T10:01:59Z",
+      "comments": 1
+    },
+    {
+      "id": "gh-5549381818",
+      "source": "github",
+      "title": "[radar] SN open bounty 2026-09-23T05:52",
+      "repo": "relayhop/sn-monetization-runtime",
+      "url": "https://github.com/relayhop/sn-monetization-runtime/issues/1184",
+      "labels": [
+        "radar",
+        "sn",
+        "bounty"
+      ],
+      "amount_usd": null,
+      "state": "open",
+      "created_at": "2026-09-23T05:52:02Z",
+      "updated_at": "2026-09-23T05:55:37Z",
+      "comments": 1
+    },
+    {
+      "id": "gh-5549109539",
+      "source": "github",
+      "title": "[radar] SN open bounty 2026-09-23T05:13",
+      "repo": "relayhop/sn-monetization-runtime",
+      "url": "https://github.com/relayhop/sn-monetization-runtime/issues/1183",
+      "labels": [
+        "radar",
+        "sn",
+        "bounty"
+      ],
+      "amount_usd": null,
+      "state": "open",
+      "created_at": "2026-09-23T05:13:40Z",
+      "updated_at": "2026-09-23T05:55:50Z",
+      "comments": 1
+    },
+    {
+      "id": "gh-5547087108",
+      "source": "github",
+      "title": "[radar] SN open bounty 2026-09-23T00:35",
+      "repo": "relayhop/sn-monetization-runtime",
+      "url": "https://github.com/relayhop/sn-monetization-runtime/issues/1181",
+      "labels": [
+        "radar",
+        "sn",
+        "bounty"
+      ],
+      "amount_usd": null,
+      "state": "open",
+      "created_at": "2026-09-23T00:35:49Z",
+      "updated_at": "2026-09-23T05:55:57Z",
+      "comments": 1
+    },
+    {
+      "id": "gh-5546987479",
+      "source": "github",
+      "title": "[radar] SN open bounty 2026-09-23T00:22",
+      "repo": "relayhop/sn-monetization-runtime",
+      "url": "https://github.com/relayhop/sn-monetization-runtime/issues/1179",
+      "labels": [
+        "radar",
+        "sn",
+        "bounty"
+      ],
+      "amount_usd": null,
+      "state": "open",
+      "created_at": "2026-09-23T00:22:08Z",
+      "updated_at": "2026-09-23T05:56:49Z",
+      "comments": 2
+    },
+    {
+      "id": "gh-5545891629",
+      "source": "github",
+      "title": "[radar] SN open bounty 2026-09-22T22:11",
+      "repo": "relayhop/sn-monetization-runtime",
+      "url": "https://github.com/relayhop/sn-monetization-runtime/issues/1178",
+      "labels": [
+        "radar",
+        "sn",
+        "bounty"
+      ],
+      "amount_usd": null,
+      "state": "open",
+      "created_at": "2026-09-22T22:11:14Z",
+      "updated_at": "2026-09-22T22:12:42Z",
+      "comments": 1
+    },
+    {
+      "id": "gh-5545778202",
+      "source": "github",
+      "title": "[radar] SN open bounty 2026-09-22T21:59",
+      "repo": "relayhop/sn-monetization-runtime",
+      "url": "https://github.com/relayhop/sn-monetization-runtime/issues/1177",
+      "labels": [
+        "radar",
+        "sn",
+        "bounty"
+      ],
+      "amount_usd": null,
+      "state": "open",
+      "created_at": "2026-09-22T21:59:58Z",
+      "updated_at": "2026-09-22T22:01:34Z",
+      "comments": 1
+    },
+    {
+      "id": "gh-5543945817",
+      "source": "github",
+      "title": "[radar] SN open bounty 2026-09-22T19:03",
+      "repo": "relayhop/sn-monetization-runtime",
+      "url": "https://github.com/relayhop/sn-monetization-runtime/issues/1175",
+      "labels": [
+        "radar",
+        "sn",
+        "bounty"
+      ],
+      "amount_usd": null,
+      "state": "open",
+      "created_at": "2026-09-22T19:04:00Z",
+      "updated_at": "2026-09-22T22:00:10Z",
+      "comments": 1
+    },
+    {
+      "id": "gh-5543756797",
+      "source": "github",
+      "title": "[radar] SN open bounty 2026-09-22T18:47",
+      "repo": "relayhop/sn-monetization-runtime",
+      "url": "https://github.com/relayhop/sn-monetization-runtime/issues/1174",
+      "labels": [
+        "radar",
+        "sn",
+        "bounty"
+      ],
+      "amount_usd": null,
+      "state": "open",
+      "created_at": "2026-09-22T18:47:29Z",
+      "updated_at": "2026-09-22T21:11:12Z",
+      "comments": 1
+    },
+    {
+      "id": "gh-5541729334",
+      "source": "github",
+      "title": "[radar] SN open bounty 2026-09-22T15:31",
+      "repo": "relayhop/sn-monetization-runtime",
+      "url": "https://github.com/relayhop/sn-monetization-runtime/issues/1172",
+      "labels": [
+        "radar",
+        "sn",
+        "bounty"
+      ],
+      "amount_usd": null,
+      "state": "open",
+      "created_at": "2026-09-22T15:31:45Z",
+      "updated_at": "2026-09-22T21:12:02Z",
+      "comments": 1
+    },
+    {
+      "id": "gh-5541171649",
+      "source": "github",
+      "title": "[radar] SN open bounty 2026-09-22T14:43",
+      "repo": "relayhop/sn-monetization-runtime",
+      "url": "https://github.com/relayhop/sn-monetization-runtime/issues/1169",
+      "labels": [
+        "radar",
+        "sn",
+        "bounty"
+      ],
+      "amount_usd": null,
+      "state": "open",
+      "created_at": "2026-09-22T14:43:08Z",
+      "updated_at": "2026-09-22T21:12:25Z",
+      "comments": 2
+    },
+    {
+      "id": "gh-5538850937",
+      "source": "github",
+      "title": "[radar] SN open bounty 2026-09-22T11:27",
+      "repo": "relayhop/sn-monetization-runtime",
+      "url": "https://github.com/relayhop/sn-monetization-runtime/issues/1165",
+      "labels": [
+        "radar",
+        "sn",
+        "bounty"
+      ],
+      "amount_usd": null,
+      "state": "open",
+      "created_at": "2026-09-22T11:27:37Z",
+      "updated_at": "2026-09-22T13:43:35Z",
+      "comments": 2
+    },
+    {
+      "id": "gh-5538720441",
+      "source": "github",
+      "title": "[radar] SN open bounty 2026-09-22T11:14",
+      "repo": "relayhop/sn-monetization-runtime",
+      "url": "https://github.com/relayhop/sn-monetization-runtime/issues/1162",
+      "labels": [
+        "radar",
+        "sn",
+        "bounty"
+      ],
+      "amount_usd": null,
+      "state": "open",
+      "created_at": "2026-09-22T11:14:44Z",
+      "updated_at": "2026-09-22T13:43:58Z",
+      "comments": 2
+    },
+    {
+      "id": "gh-5537922934",
+      "source": "github",
+      "title": "[radar] SN open bounty 2026-09-22T09:51",
+      "repo": "relayhop/sn-monetization-runtime",
+      "url": "https://github.com/relayhop/sn-monetization-runtime/issues/1157",
+      "labels": [
+        "radar",
+        "sn",
+        "bounty"
+      ],
+      "amount_usd": null,
+      "state": "open",
+      "created_at": "2026-09-22T09:51:47Z",
+      "updated_at": "2026-09-22T11:00:07Z",
+      "comments": 1
+    },
+    {
+      "id": "gh-5535831220",
+      "source": "github",
+      "title": "[radar] SN open bounty 2026-09-22T05:56",
+      "repo": "relayhop/sn-monetization-runtime",
+      "url": "https://github.com/relayhop/sn-monetization-runtime/issues/1153",
+      "labels": [
+        "radar",
+        "sn",
+        "bounty"
+      ],
+      "amount_usd": null,
+      "state": "open",
+      "created_at": "2026-09-22T05:56:46Z",
+      "updated_at": "2026-09-22T10:02:42Z",
+      "comments": 1
+    },
+    {
+      "id": "gh-5535384672",
+      "source": "github",
+      "title": "[radar] SN open bounty 2026-09-22T04:43",
+      "repo": "relayhop/sn-monetization-runtime",
+      "url": "https://github.com/relayhop/sn-monetization-runtime/issues/1150",
+      "labels": [
+        "radar",
+        "sn",
+        "bounty"
+      ],
+      "amount_usd": null,
+      "state": "open",
+      "created_at": "2026-09-22T04:43:51Z",
+      "updated_at": "2026-09-22T10:02:52Z",
+      "comments": 1
+    },
+    {
+      "id": "gh-5534071437",
+      "source": "github",
+      "title": "[radar] SN open bounty 2026-09-22T00:53",
+      "repo": "relayhop/sn-monetization-runtime",
+      "url": "https://github.com/relayhop/sn-monetization-runtime/issues/1148",
+      "labels": [
+        "radar",
+        "sn",
+        "bounty"
+      ],
+      "amount_usd": null,
+      "state": "open",
+      "created_at": "2026-09-22T00:53:39Z",
+      "updated_at": "2026-09-22T10:03:00Z",
+      "comments": 1
+    },
+    {
+      "id": "gh-5533445024",
+      "source": "github",
+      "title": "[radar] SN open bounty 2026-09-21T23:12",
+      "repo": "relayhop/sn-monetization-runtime",
+      "url": "https://github.com/relayhop/sn-monetization-runtime/issues/1146",
+      "labels": [
+        "radar",
+        "sn",
+        "bounty"
+      ],
+      "amount_usd": null,
+      "state": "open",
+      "created_at": "2026-09-21T23:12:29Z",
+      "updated_at": "2026-09-22T10:03:11Z",
+      "comments": 1
+    },
+    {
+      "id": "gh-5523418164",
+      "source": "github",
+      "title": "[radar] SN open bounty 2026-09-21T06:11",
+      "repo": "relayhop/sn-monetization-runtime",
+      "url": "https://github.com/relayhop/sn-monetization-runtime/issues/1135",
+      "labels": [
+        "radar",
+        "sn",
+        "bounty"
+      ],
+      "amount_usd": null,
+      "state": "open",
+      "created_at": "2026-09-21T06:11:55Z",
+      "updated_at": "2026-09-23T00:45:14Z",
+      "comments": 5
+    },
+    {
+      "id": "gh-5521334126",
+      "source": "github",
+      "title": "[radar] SN open bounty 2026-09-21T00:09",
+      "repo": "relayhop/sn-monetization-runtime",
+      "url": "https://github.com/relayhop/sn-monetization-runtime/issues/1130",
+      "labels": [
+        "radar",
+        "sn",
+        "bounty"
+      ],
+      "amount_usd": null,
+      "state": "open",
+      "created_at": "2026-09-21T00:09:45Z",
+      "updated_at": "2026-09-21T23:00:11Z",
+      "comments": 3
+    },
+    {
+      "id": "gh-5520583140",
+      "source": "github",
+      "title": "[radar] SN open bounty 2026-09-20T21:28",
+      "repo": "relayhop/sn-monetization-runtime",
+      "url": "https://github.com/relayhop/sn-monetization-runtime/issues/1129",
+      "labels": [
+        "radar",
+        "sn",
+        "bounty"
+      ],
+      "amount_usd": null,
+      "state": "open",
+      "created_at": "2026-09-20T21:28:24Z",
+      "updated_at": "2026-09-21T10:32:41Z",
+      "comments": 3
+    },
+    {
+      "id": "gh-5519781644",
+      "source": "github",
+      "title": "Bug: vista deploy still breaks static hosts and platform adapters",
+      "repo": "Mantitup-Org/vista",
+      "url": "https://github.com/Mantitup-Org/vista/issues/62",
+      "labels": [
+        "bug",
+        "help wanted",
+        "bounty"
+      ],
+      "amount_usd": null,
+      "state": "open",
+      "created_at": "2026-09-20T18:51:07Z",
+      "updated_at": "2026-09-24T18:57:01Z",
+      "comments": 12
+    },
+    {
+      "id": "gh-5519781492",
+      "source": "github",
+      "title": "Bounty: hunt bugs across the entire Vista framework",
+      "repo": "Mantitup-Org/vista",
+      "url": "https://github.com/Mantitup-Org/vista/issues/61",
+      "labels": [
+        "help wanted",
+        "bounty"
+      ],
+      "amount_usd": null,
+      "state": "open",
+      "created_at": "2026-09-20T18:51:05Z",
+      "updated_at": "2026-09-23T17:14:01Z",
+      "comments": 13
+    },
+    {
+      "id": "gh-5519735431",
+      "source": "github",
+      "title": "[radar] SN open bounty 2026-09-20T18:42",
+      "repo": "relayhop/sn-monetization-runtime",
+      "url": "https://github.com/relayhop/sn-monetization-runtime/issues/1128",
+      "labels": [
+        "radar",
+        "sn",
+        "bounty"
+      ],
+      "amount_usd": null,
+      "state": "open",
+      "created_at": "2026-09-20T18:42:26Z",
+      "updated_at": "2026-09-21T10:32:33Z",
+      "comments": 2
+    },
+    {
+      "id": "gh-5518873684",
+      "source": "github",
+      "title": "[radar] SN open bounty 2026-09-20T15:58",
+      "repo": "relayhop/sn-monetization-runtime",
+      "url": "https://github.com/relayhop/sn-monetization-runtime/issues/1127",
+      "labels": [
+        "radar",
+        "sn",
+        "bounty"
+      ],
+      "amount_usd": null,
+      "state": "open",
+      "created_at": "2026-09-20T15:58:20Z",
+      "updated_at": "2026-09-21T10:33:57Z",
+      "comments": 4
+    },
+    {
+      "id": "gh-5518440111",
+      "source": "github",
+      "title": "[Compat][Copilot] 三套配置形状（VS Code / Copilot CLI / coding agent）的配方与证据",
+      "repo": "Ikalus1988/MisakaNet",
+      "url": "https://github.com/Ikalus1988/MisakaNet/issues/1941",
+      "labels": [
+        "documentation",
+        "help wanted",
+        "area:docs",
+        "ready",
+        "bounty",
+        "priority:medium",
+        "needs-evidence"
+      ],
+      "amount_usd": null,
+      "state": "open",
+      "created_at": "2026-09-20T14:33:03Z",
+      "updated_at": "2026-09-30T06:13:15Z",
+      "comments": 10
+    },
+    {
+      "id": "gh-5518395484",
+      "source": "github",
+      "title": "Epic: 5% maintenance treasury and miner bounty operations",
+      "repo": "ditto-assistant/ditto-subnet",
+      "url": "https://github.com/ditto-assistant/ditto-subnet/issues/2054",
+      "labels": [
+        "epic",
+        "bounty"
+      ],
+      "amount_usd": null,
+      "state": "open",
+      "created_at": "2026-09-20T14:23:55Z",
+      "updated_at": "2026-09-30T21:23:22Z",
+      "comments": 8
+    },
+    {
+      "id": "gh-5518390476",
+      "source": "github",
+      "title": "Publish a GitHub-backed SN118 bounty board and contributor guide",
+      "repo": "ditto-assistant/ditto-subnet",
+      "url": "https://github.com/ditto-assistant/ditto-subnet/issues/2047",
+      "labels": [
+        "documentation",
+        "good first issue",
+        "help wanted",
+        "bounty"
+      ],
+      "amount_usd": null,
+      "state": "open",
+      "created_at": "2026-09-20T14:22:57Z",
+      "updated_at": "2026-09-30T21:23:26Z",
+      "comments": 12
+    },
+    {
+      "id": "gh-5518390341",
+      "source": "github",
+      "title": "Implement bounty acceptance, payout proof, disputes, and public accounting",
+      "repo": "ditto-assistant/ditto-subnet",
+      "url": "https://github.com/ditto-assistant/ditto-subnet/issues/2046",
+      "labels": [
+        "enhancement",
+        "help wanted",
+        "bounty"
+      ],
+      "amount_usd": null,
+      "state": "open",
+      "created_at": "2026-09-20T14:22:55Z",
+      "updated_at": "2026-09-30T21:23:31Z",
+      "comments": 11
+    },
+    {
+      "id": "gh-5518390131",
+      "source": "github",
+      "title": "Specify the 5% SN118 maintenance treasury and governance contract",
+      "repo": "ditto-assistant/ditto-subnet",
+      "url": "https://github.com/ditto-assistant/ditto-subnet/issues/2044",
+      "labels": [
+        "documentation",
+        "enhancement",
+        "bounty"
+      ],
+      "amount_usd": null,
+      "state": "open",
+      "created_at": "2026-09-20T14:22:53Z",
+      "updated_at": "2026-09-30T21:23:35Z",
+      "comments": 11
+    },
+    {
+      "id": "gh-5654559673",
+      "source": "github",
+      "title": "Add consented Google Ads bounty-outcome measurement (disabled)",
+      "repo": "NSPG13/agent-bounties",
+      "url": "https://github.com/NSPG13/agent-bounties/pull/1540",
+      "labels": [],
+      "amount_usd": null,
+      "state": "open",
+      "created_at": "2026-09-30T23:50:12Z",
+      "updated_at": "2026-09-30T23:50:12Z",
+      "comments": 0
+    },
+    {
+      "id": "gh-5654505879",
+      "source": "github",
+      "title": "Submission: Bounty #8 — Perps Funding Pulse (re-filed from aaron11998)",
+      "repo": "daydreamsai/agent-bounties",
+      "url": "https://github.com/daydreamsai/agent-bounties/pull/375",
+      "labels": [],
+      "amount_usd": null,
+      "state": "open",
+      "created_at": "2026-09-30T23:43:11Z",
+      "updated_at": "2026-09-30T23:43:15Z",
+      "comments": 0
+    },
+    {
+      "id": "gh-5653784200",
+      "source": "github",
+      "title": "bounty-watch 2026-09-30: 1 new, 1 resumed, 8 watchlist changes",
+      "repo": "abdulsalam-create/bounty-watch",
+      "url": "https://github.com/abdulsalam-create/bounty-watch/issues/62",
+      "labels": [
+        "bounty-watch"
+      ],
+      "amount_usd": null,
+      "state": "open",
+      "created_at": "2026-09-30T22:20:21Z",
+      "updated_at": "2026-09-30T22:20:21Z",
+      "comments": 0
+    },
+    {
+      "id": "gh-5653289606",
+      "source": "github",
+      "title": "Fix bounty board pagination after list refresh",
+      "repo": "ZecHub/zec-bounties",
+      "url": "https://github.com/ZecHub/zec-bounties/pull/287",
+      "labels": [],
+      "amount_usd": null,
+      "state": "open",
+      "created_at": "2026-09-30T21:30:10Z",
+      "updated_at": "2026-09-30T21:30:54Z",
+      "comments": 1
+    },
+    {
+      "id": "gh-5653156887",
+      "source": "github",
+      "title": "fix: solution for bounty issue #2047 - Publish a GitHub-backed SN118 bounty board and contributor guide",
+      "repo": "ditto-assistant/ditto-subnet",
+      "url": "https://github.com/ditto-assistant/ditto-subnet/pull/2604",
+      "labels": [],
+      "amount_usd": null,
+      "state": "open",
+      "created_at": "2026-09-30T21:17:19Z",
+      "updated_at": "2026-09-30T21:29:40Z",
+      "comments": 0
+    },
+    {
+      "id": "gh-5653134858",
+      "source": "github",
+      "title": "docs: Tess security review and bug bounty findings report",
+      "repo": "marvel-254/stor1",
+      "url": "https://github.com/marvel-254/stor1/pull/12",
+      "labels": [],
+      "amount_usd": null,
+      "state": "open",
+      "created_at": "2026-09-30T21:15:19Z",
+      "updated_at": "2026-09-30T23:29:01Z",
+      "comments": 12
+    },
+    {
+      "id": "gh-5651951247",
+      "source": "github",
+      "title": "[meta-bounty-question].",
+      "repo": "osmesirius-ship-it/DAX_DA13-DA13x2",
+      "url": "https://github.com/osmesirius-ship-it/DAX_DA13-DA13x2/issues/13",
+      "labels": [
+        "[meta-bounty-question]."
+      ],
+      "amount_usd": null,
+      "state": "open",
+      "created_at": "2026-09-30T19:33:04Z",
+      "updated_at": "2026-09-30T19:33:07Z",
+      "comments": 0
+    },
+    {
+      "id": "gh-5651338567",
+      "source": "github",
+      "title": "fix: validate publisher before key discovery (bounty #1732)",
+      "repo": "binalyze/notar",
+      "url": "https://github.com/binalyze/notar/pull/6",
+      "labels": [],
+      "amount_usd": null,
+      "state": "open",
+      "created_at": "2026-09-30T18:43:50Z",
+      "updated_at": "2026-09-30T23:41:56Z",
+      "comments": 1
+    },
+    {
+      "id": "gh-5651215775",
+      "source": "github",
+      "title": "Fix bounty PDF report export",
+      "repo": "dr-week/Business-Man",
+      "url": "https://github.com/dr-week/Business-Man/pull/16",
+      "labels": [],
+      "amount_usd": null,
+      "state": "open",
+      "created_at": "2026-09-30T18:33:48Z",
+      "updated_at": "2026-09-30T18:37:36Z",
+      "comments": 1
+    },
+    {
+      "id": "gh-5651027986",
+      "source": "github",
+      "title": "fix(bounties): reject unknown status filter with 400 instead of silent active fallback (fixes #1099)",
+      "repo": "aibtcdev/landing-page",
+      "url": "https://github.com/aibtcdev/landing-page/pull/1102",
+      "labels": [],
+      "amount_usd": null,
+      "state": "open",
+      "created_at": "2026-09-30T18:17:44Z",
+      "updated_at": "2026-09-30T18:17:44Z",
+      "comments": 0
+    },
+    {
+      "id": "gh-5650692622",
+      "source": "github",
+      "title": "Local uncensored model library for the autonomous bug bounty agent + simplified agent UI",
+      "repo": "Obfinityy/Dark-Matter",
+      "url": "https://github.com/Obfinityy/Dark-Matter/issues/3",
+      "labels": [
+        "enhancement"
+      ],
+      "amount_usd": null,
+      "state": "open",
+      "created_at": "2026-09-30T17:49:57Z",
+      "updated_at": "2026-09-30T17:49:57Z",
+      "comments": 0
+    },
+    {
+      "id": "gh-5650526702",
+      "source": "github",
+      "title": "Independent security audit and bug bounty before public beta",
+      "repo": "jimichi-org/jimichi",
+      "url": "https://github.com/jimichi-org/jimichi/issues/103",
+      "labels": [
+        "security",
+        "product"
+      ],
+      "amount_usd": null,
+      "state": "open",
+      "created_at": "2026-09-30T17:36:19Z",
+      "updated_at": "2026-09-30T17:36:19Z",
+      "comments": 0
+    },
+    {
+      "id": "gh-5650309917",
+      "source": "github",
+      "title": "[Bug bounty] tarsnap-keymgmt --keylist accepts trailing garbage and base-0 key numbers",
+      "repo": "Tarsnap/tarsnap",
+      "url": "https://github.com/Tarsnap/tarsnap/issues/954",
+      "labels": [],
+      "amount_usd": null,
+      "state": "open",
+      "created_at": "2026-09-30T17:18:21Z",
+      "updated_at": "2026-09-30T17:18:21Z",
+      "comments": 0
+    },
+    {
+      "id": "gh-5650167046",
+      "source": "github",
+      "title": "Collaboration & Monetization: Decentralized Peer Bounties and Field Verification Desk",
+      "repo": "dr-week/Business-Man",
+      "url": "https://github.com/dr-week/Business-Man/issues/12",
+      "labels": [],
+      "amount_usd": null,
+      "state": "open",
+      "created_at": "2026-09-30T17:06:18Z",
+      "updated_at": "2026-09-30T17:06:18Z",
+      "comments": 0
+    },
+    {
+      "id": "gh-5649711246",
+      "source": "github",
+      "title": "[Bug bounty] --creationtime accepts trailing garbage",
+      "repo": "Tarsnap/tarsnap",
+      "url": "https://github.com/Tarsnap/tarsnap/issues/953",
+      "labels": [],
+      "amount_usd": null,
+      "state": "open",
+      "created_at": "2026-09-30T16:28:55Z",
+      "updated_at": "2026-09-30T19:33:43Z",
+      "comments": 2
+    },
+    {
+      "id": "gh-5647966942",
+      "source": "github",
+      "title": "Bounty: Feature: Translate notes to user's preferred language",
+      "repo": "PrimalHQ/primal-android-app",
+      "url": "https://github.com/PrimalHQ/primal-android-app/pull/1114",
+      "labels": [],
+      "amount_usd": null,
+      "state": "open",
+      "created_at": "2026-09-30T14:21:32Z",
+      "updated_at": "2026-09-30T17:39:07Z",
+      "comments": 0
+    },
+    {
+      "id": "gh-5647962473",
+      "source": "github",
+      "title": "Bounty Admin Improvements",
+      "repo": "ItsGraphax-Server/RMC5",
+      "url": "https://github.com/ItsGraphax-Server/RMC5/issues/2",
+      "labels": [
+        "enhancement"
+      ],
+      "amount_usd": null,
+      "state": "open",
+      "created_at": "2026-09-30T14:21:14Z",
+      "updated_at": "2026-09-30T19:42:17Z",
+      "comments": 0
+    },
+    {
+      "id": "gh-5647958134",
+      "source": "github",
+      "title": "Serialize complete bounty assignee replacements",
+      "repo": "ZecHub/zec-bounties",
+      "url": "https://github.com/ZecHub/zec-bounties/pull/281",
+      "labels": [],
+      "amount_usd": null,
+      "state": "open",
+      "created_at": "2026-09-30T14:20:56Z",
+      "updated_at": "2026-09-30T14:21:02Z",
+      "comments": 1
+    },
+    {
+      "id": "gh-5647913786",
+      "source": "github",
+      "title": "Add Ops Control HQ Bounty Check — x402 endpoint on Base",
+      "repo": "Merit-Systems/x402scan",
+      "url": "https://github.com/Merit-Systems/x402scan/issues/1246",
+      "labels": [],
+      "amount_usd": null,
+      "state": "open",
+      "created_at": "2026-09-30T14:17:56Z",
+      "updated_at": "2026-09-30T14:17:56Z",
+      "comments": 0
+    },
+    {
+      "id": "gh-5647783926",
+      "source": "github",
+      "title": "[Bounty] Answer 2 linked question(s) as a lesson",
+      "repo": "Ikalus1988/MisakaNet",
+      "url": "https://github.com/Ikalus1988/MisakaNet/pull/2538",
+      "labels": [
+        "area:docs",
+        "area:lessons",
+        "needs-human-review",
+        "shape-safe",
+        "lessons-only"
+      ],
+      "amount_usd": null,
+      "state": "open",
+      "created_at": "2026-09-30T14:09:05Z",
+      "updated_at": "2026-09-30T14:09:29Z",
+      "comments": 1
+    },
+    {
+      "id": "gh-5647704506",
+      "source": "github",
+      "title": "Bring 26.2 to full parity with 1.21.11: Waystones, Bounty, AutoMapper",
+      "repo": "aquariusnetwork9/argus-mapper",
+      "url": "https://github.com/aquariusnetwork9/argus-mapper/pull/10",
+      "labels": [],
+      "amount_usd": null,
+      "state": "open",
+      "created_at": "2026-09-30T14:03:26Z",
+      "updated_at": "2026-09-30T14:03:26Z",
+      "comments": 0
+    },
+    {
+      "id": "gh-5647534696",
+      "source": "github",
+      "title": "[Bounty] Answer 2 linked question(s) as a lesson",
+      "repo": "Ikalus1988/MisakaNet",
+      "url": "https://github.com/Ikalus1988/MisakaNet/pull/2534",
+      "labels": [
+        "area:docs",
+        "area:lessons",
+        "needs-human-review",
+        "shape-safe",
+        "lessons-only"
+      ],
+      "amount_usd": null,
+      "state": "open",
+      "created_at": "2026-09-30T13:50:52Z",
+      "updated_at": "2026-09-30T13:51:43Z",
+      "comments": 1
+    },
+    {
+      "id": "gh-5647519690",
+      "source": "github",
+      "title": "[Bounty] Answer 2 linked question(s) as a lesson",
+      "repo": "Ikalus1988/MisakaNet",
+      "url": "https://github.com/Ikalus1988/MisakaNet/pull/2533",
+      "labels": [
+        "area:docs",
+        "area:lessons",
+        "needs-human-review",
+        "shape-safe",
+        "lessons-only"
+      ],
+      "amount_usd": null,
+      "state": "open",
+      "created_at": "2026-09-30T13:49:44Z",
+      "updated_at": "2026-09-30T13:50:59Z",
+      "comments": 1
+    },
+    {
+      "id": "gh-5646899750",
+      "source": "github",
+      "title": "Python wave: bounty-infra, pm-agent-loop, scope-core, tenant-posture-assessment on Python 3.14, uv-native",
+      "repo": "603-Identity/devcontainers",
+      "url": "https://github.com/603-Identity/devcontainers/issues/26",
+      "labels": [
+        "feature",
+        "area/rollout"
+      ],
+      "amount_usd": null,
+      "state": "open",
+      "created_at": "2026-09-30T13:04:42Z",
+      "updated_at": "2026-09-30T18:57:06Z",
+      "comments": 1
+    },
+    {
+      "id": "gh-5646869767",
+      "source": "github",
+      "title": "[Bounty proposal] feat(python-cli): goals -> Org-mode export recipe ( supersedes abandoned #19532)",
+      "repo": "BasedHardware/omi",
+      "url": "https://github.com/BasedHardware/omi/issues/19993",
+      "labels": [],
+      "amount_usd": null,
+      "state": "open",
+      "created_at": "2026-09-30T13:02:37Z",
+      "updated_at": "2026-09-30T13:02:37Z",
+      "comments": 0
+    },
+    {
+      "id": "gh-5646529996",
+      "source": "github",
+      "title": "Scope digest 2026-09-30: 7 changes across 5 bounty programs",
+      "repo": "abdulsalam-create/bounty-watch",
+      "url": "https://github.com/abdulsalam-create/bounty-watch/issues/60",
+      "labels": [
+        "bounty-watch"
+      ],
+      "amount_usd": null,
+      "state": "open",
+      "created_at": "2026-09-30T12:36:25Z",
+      "updated_at": "2026-09-30T12:36:25Z",
+      "comments": 0
+    },
+    {
+      "id": "gh-5646529680",
+      "source": "github",
+      "title": "bounty-watch 2026-09-30: 0 new, 1 resumed, 7 watchlist changes",
+      "repo": "abdulsalam-create/bounty-watch",
+      "url": "https://github.com/abdulsalam-create/bounty-watch/issues/59",
+      "labels": [
+        "bounty-watch"
+      ],
+      "amount_usd": null,
+      "state": "open",
+      "created_at": "2026-09-30T12:36:24Z",
+      "updated_at": "2026-09-30T12:36:24Z",
+      "comments": 0
+    },
+    {
+      "id": "gh-5646100150",
+      "source": "github",
+      "title": "Add Crypto Agent — autonomous AI bounty hunter",
+      "repo": "e2b-dev/awesome-ai-agents",
+      "url": "https://github.com/e2b-dev/awesome-ai-agents/pull/1662",
+      "labels": [
+        "cla-signed"
+      ],
+      "amount_usd": null,
+      "state": "open",
+      "created_at": "2026-09-30T12:01:33Z",
+      "updated_at": "2026-09-30T12:22:12Z",
+      "comments": 3
+    },
+    {
+      "id": "gh-5645724732",
+      "source": "github",
+      "title": "fix(contracts): preserve bounty compatibility and escrow invariants",
+      "repo": "Liquifact/Liquifact-backend",
+      "url": "https://github.com/Liquifact/Liquifact-backend/pull/1473",
+      "labels": [],
+      "amount_usd": null,
+      "state": "open",
+      "created_at": "2026-09-30T11:30:23Z",
+      "updated_at": "2026-09-30T11:38:52Z",
+      "comments": 1
+    },
+    {
+      "id": "gh-5645684978",
+      "source": "github",
+      "title": "Attachment summarizer for bounty #1",
+      "repo": "warpspeedopen-source/warpspeed-bounties",
+      "url": "https://github.com/warpspeedopen-source/warpspeed-bounties/pull/192",
+      "labels": [],
+      "amount_usd": null,
+      "state": "open",
+      "created_at": "2026-09-30T11:27:01Z",
+      "updated_at": "2026-09-30T11:27:01Z",
+      "comments": 0
+    },
+    {
+      "id": "gh-5645590820",
+      "source": "github",
+      "title": "docs: correct SequentialWorkflow imgs forwarding (bounty claim)",
+      "repo": "The-Swarm-Corporation/swarms-framework-docs",
+      "url": "https://github.com/The-Swarm-Corporation/swarms-framework-docs/pull/274",
+      "labels": [],
+      "amount_usd": null,
+      "state": "open",
+      "created_at": "2026-09-30T11:18:57Z",
+      "updated_at": "2026-09-30T11:18:57Z",
+      "comments": 0
+    },
+    {
+      "id": "gh-5645539604",
+      "source": "github",
+      "title": "Updated bug-bounties",
+      "repo": "stride3d/stride-docs",
+      "url": "https://github.com/stride3d/stride-docs/pull/566",
+      "labels": [],
+      "amount_usd": null,
+      "state": "open",
+      "created_at": "2026-09-30T11:14:30Z",
+      "updated_at": "2026-09-30T12:34:45Z",
+      "comments": 0
+    },
+    {
+      "id": "gh-5644862456",
+      "source": "github",
+      "title": "docs: add Simplified Chinese quickstart (Silver bounty claim)",
+      "repo": "The-Swarm-Corporation/swarms-framework-docs",
+      "url": "https://github.com/The-Swarm-Corporation/swarms-framework-docs/pull/273",
+      "labels": [],
+      "amount_usd": null,
+      "state": "open",
+      "created_at": "2026-09-30T10:15:26Z",
+      "updated_at": "2026-09-30T10:15:26Z",
+      "comments": 0
+    },
+    {
+      "id": "gh-5642860881",
+      "source": "github",
+      "title": "Add autobb: framework di automazione etica per bug bounty",
+      "repo": "notaxeltv/Auto-Bug-Bounty",
+      "url": "https://github.com/notaxeltv/Auto-Bug-Bounty/pull/1",
+      "labels": [],
+      "amount_usd": null,
+      "state": "open",
+      "created_at": "2026-09-30T07:37:11Z",
+      "updated_at": "2026-09-30T07:37:11Z",
+      "comments": 0
+    },
+    {
+      "id": "gh-5642586826",
+      "source": "github",
+      "title": "feat: add share bounty button with fallback and unit tests (#913)",
+      "repo": "mergemint-mint/mergemint-contracts",
+      "url": "https://github.com/mergemint-mint/mergemint-contracts/pull/1001",
+      "labels": [],
+      "amount_usd": null,
+      "state": "open",
+      "created_at": "2026-09-30T07:14:33Z",
+      "updated_at": "2026-09-30T07:14:33Z",
+      "comments": 0
+    },
+    {
+      "id": "gh-5642506753",
+      "source": "github",
+      "title": "test: cover bounty escrow boundaries and recovery",
+      "repo": "CredenceOrg/Credence-Contracts",
+      "url": "https://github.com/CredenceOrg/Credence-Contracts/pull/1571",
+      "labels": [],
+      "amount_usd": null,
+      "state": "open",
+      "created_at": "2026-09-30T07:07:56Z",
+      "updated_at": "2026-09-30T07:08:02Z",
+      "comments": 1
+    },
+    {
+      "id": "gh-5642323698",
+      "source": "github",
+      "title": "Add continues to only the bounties",
+      "repo": "StudioLilac/Wastelanders",
+      "url": "https://github.com/StudioLilac/Wastelanders/pull/274",
+      "labels": [],
+      "amount_usd": null,
+      "state": "open",
+      "created_at": "2026-09-30T06:52:30Z",
+      "updated_at": "2026-09-30T08:15:42Z",
+      "comments": 1
+    },
+    {
+      "id": "gh-5642239470",
+      "source": "github",
+      "title": "docs(contribute): drop frozen ZEC tip rates from root CONTRIBUTING.md, point at bounty policy",
+      "repo": "ZecHub/zechub",
+      "url": "https://github.com/ZecHub/zechub/pull/2281",
+      "labels": [],
+      "amount_usd": null,
+      "state": "open",
+      "created_at": "2026-09-30T06:45:10Z",
+      "updated_at": "2026-09-30T06:46:44Z",
+      "comments": 1
+    },
+    {
+      "id": "gh-5642109121",
+      "source": "github",
+      "title": "[BUG] Quests: completed POLLEN-QUEST bounties disappear / rewards unpaid once quest issues exceed 100 (search(first:100) not paginated)",
+      "repo": "pollinations/pollinations",
+      "url": "https://github.com/pollinations/pollinations/issues/15888",
+      "labels": [
+        "BUG",
+        "API",
+        "BILLING"
+      ],
+      "amount_usd": null,
+      "state": "open",
+      "created_at": "2026-09-30T06:33:38Z",
+      "updated_at": "2026-09-30T06:34:18Z",
+      "comments": 1
+    },
+    {
+      "id": "gh-5641892446",
+      "source": "github",
+      "title": "Link bounty submissions to many commissions",
+      "repo": "dubinc/dub",
+      "url": "https://github.com/dubinc/dub/pull/4593",
+      "labels": [],
+      "amount_usd": null,
+      "state": "open",
+      "created_at": "2026-09-30T06:13:40Z",
+      "updated_at": "2026-09-30T09:12:30Z",
+      "comments": 2
+    },
+    {
+      "id": "gh-5641535390",
+      "source": "github",
+      "title": "bounty-watch 2026-09-30: 0 new, 0 resumed, 3 watchlist changes",
+      "repo": "abdulsalam-create/bounty-watch",
+      "url": "https://github.com/abdulsalam-create/bounty-watch/issues/58",
+      "labels": [
+        "bounty-watch"
+      ],
+      "amount_usd": null,
+      "state": "open",
+      "created_at": "2026-09-30T05:36:07Z",
+      "updated_at": "2026-09-30T05:36:07Z",
+      "comments": 0
+    },
+    {
+      "id": "gh-5641269389",
+      "source": "github",
+      "title": "feat: add Algora bounty discovery to runtime-opportunity-scout",
+      "repo": "Nexussyn/ai-growth-platform",
+      "url": "https://github.com/Nexussyn/ai-growth-platform/pull/38",
+      "labels": [],
+      "amount_usd": null,
+      "state": "open",
+      "created_at": "2026-09-30T05:06:59Z",
+      "updated_at": "2026-09-30T05:06:59Z",
+      "comments": 0
+    },
+    {
+      "id": "gh-5641069543",
+      "source": "github",
+      "title": "RFC: Self-serve slop.cash-style bounties - post, fund, work with any agent, human-or-agent approval, USDC payout",
+      "repo": "Uuriko/project-room",
+      "url": "https://github.com/Uuriko/project-room/issues/1233",
+      "labels": [],
+      "amount_usd": null,
+      "state": "open",
+      "created_at": "2026-09-30T04:45:47Z",
+      "updated_at": "2026-09-30T05:56:34Z",
+      "comments": 16
+    },
+    {
+      "id": "gh-5640674755",
+      "source": "github",
+      "title": "[documentation] Add CONTRIBUTING.md with Wave bounty label workflow",
+      "repo": "StellarRoute/WaveFlow",
+      "url": "https://github.com/StellarRoute/WaveFlow/pull/71",
+      "labels": [],
+      "amount_usd": null,
+      "state": "open",
+      "created_at": "2026-09-30T04:01:41Z",
+      "updated_at": "2026-09-30T05:21:29Z",
+      "comments": 1
+    },
+    {
+      "id": "gh-5640644249",
+      "source": "github",
+      "title": "Add WonderSuite-Ai-Bug-Bounty",
+      "repo": "AppImage/appimage.github.io",
+      "url": "https://github.com/AppImage/appimage.github.io/pull/9200",
+      "labels": [
+        "error-missing-file",
+        "auto-discovered"
+      ],
+      "amount_usd": null,
+      "state": "open",
+      "created_at": "2026-09-30T03:58:12Z",
+      "updated_at": "2026-09-30T06:19:23Z",
+      "comments": 1
+    },
+    {
+      "id": "gh-5639751691",
+      "source": "github",
+      "title": "Add bounty radar with bounded GitHub evidence and budgeted optional Actors",
+      "repo": "apify/awesome-skills",
+      "url": "https://github.com/apify/awesome-skills/pull/135",
+      "labels": [],
+      "amount_usd": null,
+      "state": "open",
+      "created_at": "2026-09-30T02:07:47Z",
+      "updated_at": "2026-09-30T02:07:47Z",
+      "comments": 0
+    },
+    {
+      "id": "gh-5639230203",
+      "source": "github",
+      "title": "docs: bounty report drafts — 2026-09-30",
+      "repo": "odnamta/secbot",
+      "url": "https://github.com/odnamta/secbot/pull/249",
+      "labels": [],
+      "amount_usd": null,
+      "state": "open",
+      "created_at": "2026-09-30T01:04:21Z",
+      "updated_at": "2026-09-30T01:06:35Z",
+      "comments": 0
+    }
+  ]
+}

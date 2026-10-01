@@ -1,0 +1,79 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+<title>bountyfarmer 🌾 — till the fields of free money bucks</title>
+<meta name="description" content="A real, open-source bounty aggregator. Every bounty listed is a real open issue or a real bounty program. No fake money bucks." />
+<link rel="stylesheet" href="styles.css" />
+</head>
+<body>
+<header class="hero">
+  <div class="hero-inner">
+    <div class="logo">🌾 <span>bountyfarmer</span></div>
+    <h1>Till the fields of <em>free money bucks</em>.</h1>
+    <p class="tagline">
+      Real open bounties, harvested fresh from GitHub — plus the legit bounty
+      platforms where the big payouts live. Every single listing is real.
+      No fake money bucks. <strong>None.</strong> That's the whole deal.
+    </p>
+    <div class="stats" id="stats">
+      <div class="stat"><span class="stat-num" id="stat-count">…</span><span class="stat-label">open bounties</span></div>
+      <div class="stat"><span class="stat-num" id="stat-payout">…</span><span class="stat-label">in listed payouts</span></div>
+      <div class="stat"><span class="stat-num" id="stat-repos">…</span><span class="stat-label">repos &amp; programs</span></div>
+    </div>
+    <p class="freshness" id="freshness"></p>
+  </div>
+</header>
+
+<main>
+  <section class="controls">
+    <input id="search" type="search" placeholder="🔎 search bounties… (e.g. rust, docs, $500)" autocomplete="off" />
+    <div class="filters">
+      <select id="source-filter" aria-label="Source filter">
+        <option value="all">All sources</option>
+        <option value="github">GitHub issues</option>
+        <option value="program">Bounty platforms</option>
+      </select>
+      <select id="amount-filter" aria-label="Minimum amount filter">
+        <option value="0">Any amount</option>
+        <option value="50">$50+</option>
+        <option value="100">$100+</option>
+        <option value="500">$500+</option>
+        <option value="1000">$1,000+</option>
+      </select>
+      <select id="sort" aria-label="Sort order">
+        <option value="amount">💰 Biggest bounty first</option>
+        <option value="new">🆕 Newest first</option>
+        <option value="updated">🔥 Recently updated</option>
+      </select>
+      <button id="refresh" title="Re-fetch live data from the GitHub API (rate limits apply)">↻ refresh live</button>
+    </div>
+    <p class="hint">Tip: click <strong>“Claim it →”</strong> to jump to the real issue or program. Read the thread before you start working — some bounties have rules.</p>
+  </section>
+
+  <section class="programs">
+    <h2>🏦 Bounty platforms <small>(the big fields — verified live)</small></h2>
+    <div class="grid" id="program-grid"></div>
+  </section>
+
+  <section class="issues">
+    <h2>🌱 Fresh from GitHub <small id="issue-count"></small></h2>
+    <div class="grid" id="issue-grid"></div>
+    <p class="empty" id="empty" hidden>No bounties match. Loosen the filters, farmer — the fields are wide.</p>
+  </section>
+</main>
+
+<footer>
+  <p>🌾 <strong>bountyfarmer</strong> — open source, keyless, no fake money bucks.</p>
+  <p class="fineprint">
+    GitHub data comes from the public GitHub API (unauthenticated). Dollar figures are parsed
+    from issue text — always confirm the payout on the real issue before doing the work.
+    Not financial advice. The crops are real; the farming metaphor is not.
+  </p>
+  <p class="fineprint"><a href="https://github.com/jaykk99/bountyfarmer">Source on GitHub</a></p>
+</footer>
+
+<script src="app.js"></script>
+</body>
+</html>
