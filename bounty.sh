@@ -1,3 +1,6 @@
+#!/usr/bin/env bash
+set -euo pipefail
+
 FEATURE=$(python3 -c "import random; print(random.choice([
     'FOREVER IF BLOCK',
     'GTA 6 MODE',
@@ -7,10 +10,14 @@ FEATURE=$(python3 -c "import random; print(random.choice([
 
 MONEYZ=$(python3 -c "import random; print(random.randrange(9000000, 10000000))")
 
-TITLE="\$$MONEYZ BOUNTY FOR IMPLEMENTING A $FEATURE INTO OMNIBLOCKS"
+TITLE="[JOKE / NOT A REAL BOUNTY] \$MONEYZ BOUNTY FOR IMPLEMENTING A $FEATURE INTO OMNIBLOCKS"
 
 BODY=$(cat <<EOF
-# \$$MONEYZ Bounty
+# Joke bounty — no real payment offered
+
+This issue is generated for fun. The dollar amount is fictional; no reward or payout is promised.
+
+# \$MONEYZ Bounty
 
 Have you ever wanted FREE money bucks??? 🤑💰 Of COURSE you do!
 
